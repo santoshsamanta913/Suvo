@@ -1,0 +1,6 @@
+{
+  "name": "Rinu - AI Photo Editor",
+  "description": "Professional native Android-style AI photo editor with intelligent enhancements, filters, manual tools, and canvas editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
